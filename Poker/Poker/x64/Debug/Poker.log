@@ -1,0 +1,9 @@
+﻿  Poker.cpp
+D:\Poker\Poker\Poker.cpp(37,9): warning C4566: character represented by universal-character-name '\u250C' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(37,9): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(37,9): warning C4566: character represented by universal-character-name '\u2510' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(41,9): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(41,9): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(41,9): warning C4566: character represented by universal-character-name '\u2518' cannot be represented in the current code page (1252)
+D:\Poker\Poker\Poker.cpp(152,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Poker.vcxproj -> D:\Poker\x64\Debug\Poker.exe
